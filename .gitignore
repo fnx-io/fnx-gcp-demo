@@ -1,0 +1,7 @@
+java-docs-samples
+*.class
+target
+build
+out
+.idea
+*.iml
